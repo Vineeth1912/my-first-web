@@ -1,0 +1,60 @@
+h1
+{
+    text-align: center;
+    background-color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    border-style: inset;
+    background-size: 100px;
+}
+.header {
+    display: flex;}
+.empty {
+    display: flex;
+    flex-grow: 1;
+}
+.abc {
+    margin: 5px 20px 5px 20px;
+}
+.image {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    
+    background-image: url("https://images.unsplash.com/photo-1582738411706-bfc8e691d1c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80")
+}
+.not
+{
+    font-size-adjust: 100px ;
+    text-align: center;
+    font-family: Calibri;                                                       ;
+}
+.xyz{
+    text-align: center;
+    color: #fffb00df;
+    
+}
+.man
+{
+    font-family:Comic Sans MS;
+}
+.vin
+{
+    text-align: center;
+    text-size-adjust: 100;
+}
+.gun
+{
+    text-align: center;
+}
+.abc
+{
+    text-align: center;
+    size: 60px;
+}
+.def
+{
+    text-align: center;
+}
